@@ -1,0 +1,25 @@
+{
+  "name": "home_page",
+  "version": "1.0.0",
+  "description": "Github HomePage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DENGYaqi/DENGYaqi.git"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "DENGYaqi",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/DENGYaqi/DENGYaqi/issues"
+  },
+  "homepage": "https://github.com/DENGYaqi/DENGYaqi#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
