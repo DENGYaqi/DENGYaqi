@@ -31,7 +31,7 @@
   <ul>
   <li><a href=https://dengyaqi.github.io/posts/how-to-build-readme/ target="_blank" rel="noreferrer nofollow">跟着大佬thmsgbrt构建Github主页 - Github Actions</a></li>
   <li><a href=https://dengyaqi.github.io/posts/how-to-build-blog/ target="_blank" rel="noreferrer nofollow">如何快速构建Github个人博客 - Github Pages</a></li>
-  <li><a href=https://dengyaqi.github.io/posts/primary-git/ target="_blank" rel="noreferrer nofollow">20分钟了解Git</a></li>
+  <li><a href=https://dengyaqi.github.io/posts/cocos-learn-part-1/ target="_blank" rel="noreferrer nofollow">【学习篇】CocosCreator学习第一部分 - TypeScript</a></li>
   </ul>
 <p><a href="https://dengyaqi.github.io/">➡️ 更多博客</a></p>
 
