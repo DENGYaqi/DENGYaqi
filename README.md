@@ -1,6 +1,6 @@
-<h1>Nice to see you</h1>
+<h1>Hello, World</h1>
 
-<p>Welcome to my page! </br> I'm DENG Yaqi, backend engineer from Hangzhou, China. </p>
+<p>Hi, I'm Yaqi from China. Currenrly, a Backend Engineer in Risk control. Before that, i'm also a NLP Engineer and Android Developer. Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas.</p>
 
 <h2>Things I code with</h2>
 <p>
