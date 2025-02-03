@@ -29,6 +29,8 @@
 
 <h2>Latest Blog Posts</h2>
   <ul>
+  <li><a href=https://dengyaqi.github.io/posts/kafka/ target="_blank" rel="noreferrer nofollow">Kafka原理解析与实战</a></li>
+  <li><a href=https://dengyaqi.github.io/posts/zookeeper/ target="_blank" rel="noreferrer nofollow">Zookeeper原理解析与实战</a></li>
   <li><a href=https://dengyaqi.github.io/posts/how-to-build-readme/ target="_blank" rel="noreferrer nofollow">跟着大佬thmsgbrt构建Github主页 - Github Actions</a></li>
   <li><a href=https://dengyaqi.github.io/posts/how-to-build-blog/ target="_blank" rel="noreferrer nofollow">如何快速构建Github个人博客 - Github Pages</a></li>
   <li><a href=https://dengyaqi.github.io/posts/git-learn-part-1/ target="_blank" rel="noreferrer nofollow">20分钟了解Git</a></li>
