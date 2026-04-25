@@ -1,6 +1,6 @@
 <h1>Hello, World</h1>
 
-<p>Hi, I'm Yaqi from China. Currenrly, a Backend Engineer in Risk control. Before that, i'm also a NLP Engineer and Android Developer. Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas.</p>
+<p>Hi, I'm Yaqi from China. Currently, I am the AI R&D Lead at Hangzhou, focusing on backend systems, knowledge graphs, ontology, and RAG-based solutions. Previously, I worked as a NLP Engineer and Android Developer. I believe in long-term impact, am passionate about open-source, and enjoy exploring innovative technologies.</p>
 
 <h2>Things I code with</h2>
 <p>
