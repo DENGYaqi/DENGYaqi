@@ -2,6 +2,14 @@
 
 <p>Hi, I'm Yaqi from China. Currently, I am the AI R&D Lead at Hangzhou, focusing on backend systems, knowledge graphs, ontology, and RAG-based solutions. Previously, I worked as a NLP Engineer and Android Developer. I believe in long-term impact, am passionate about open-source, and enjoy exploring innovative technologies.</p>
 
+<p>These days, I am turning my AI, RAG, and document parsing experience into public notes and small upstream contributions, starting with Docling and Langfuse Python SDK.</p>
+
+<p>
+  <a href="https://dengyaqi.github.io/posts/knowledge-record-and-open-source-plan/" target="_blank" rel="noreferrer nofollow">Knowledge and open-source roadmap</a>
+  ·
+  <a href="https://dengyaqi.github.io/posts/rag-document-parsing-quality/" target="_blank" rel="noreferrer nofollow">RAG document parsing note</a>
+</p>
+
 <h2>Things I code with</h2>
 <p>
   <!-- back_end -->
