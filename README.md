@@ -41,7 +41,7 @@
 
 <ul>
   <li><a href="https://dengyaqi.github.io/posts/rag-document-parsing-quality/" target="_blank" rel="noreferrer nofollow">RAG 文档解析链路：解析质量如何决定检索质量</a></li>
-  <li><a href="https://dengyaqi.github.io/posts/knowledge-record-and-open-source-plan/" target="_blank" rel="noreferrer nofollow">博客重构路线：把知识记录变成 AI 工程作品集</a></li>
+  <li><a href="https://dengyaqi.github.io/posts/knowledge-record-and-open-source-plan/" target="_blank" rel="noreferrer nofollow">博客重构路线：从会用 AI 到可靠系统</a></li>
 </ul>
 
 <h2>Tools I use</h2>
