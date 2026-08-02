@@ -1,14 +1,14 @@
 <h1>Yaqi Deng</h1>
 
 <p>
-  <strong>AI R&amp;D Lead</strong> building practical AI systems around RAG,
-  knowledge graphs, document parsing, agent workflows, and backend reliability.
+  <strong>AI R&amp;D Lead</strong> writing a practical path from using AI tools
+  to building reliable AI systems.
 </p>
 
 <p>
   I started from NLP and computational linguistics, then spent years building backend,
-  Android, and risk-control systems. These days I am turning that mixed path into
-  public engineering notes: small, reproducible observations from real AI systems.
+  Android, and risk-control systems. My blog now follows four tracks: AI guide,
+  AI core capabilities, AI engineering, and backend systems.
 </p>
 
 <p>
@@ -19,21 +19,29 @@
   <a href="https://dengyaqi.github.io/about/" target="_blank" rel="noreferrer nofollow">About</a>
 </p>
 
-<h2>Current focus</h2>
+<h2>Writing tracks</h2>
 
 <ul>
-  <li><strong>RAG quality</strong>: document parsing, OCR, table structure, chunking, retrieval, and answer traceability.</li>
-  <li><strong>Knowledge modeling</strong>: ontology, knowledge graph design, entity relations, and structured business concepts.</li>
-  <li><strong>AI engineering</strong>: LangChain, LangGraph, vLLM, DeepSeek, PgVector, FastAPI, Django, Redis, and observability.</li>
-  <li><strong>Backend systems</strong>: Java, SpringBoot, Kafka, Elasticsearch, MySQL, Kubernetes, concurrency, and JVM tuning.</li>
+  <li><strong>AI Guide</strong>: what AI is, NLP/CV/hardware, model tokens, Codex, API keys, CC-Switch, Skills, and local setup.</li>
+  <li><strong>AI Core</strong>: RAG, document parsing, OCR, knowledge graphs, retrieval, chunking, and answer quality.</li>
+  <li><strong>AI Engineering</strong>: agents, model services, evaluation, observability, context engineering, cost, latency, and reliability.</li>
+  <li><strong>Backend Systems</strong>: Java, concurrency, JVM, databases, message queues, risk-control platforms, and production stability.</li>
+</ul>
+
+<h2>Reading path</h2>
+
+<ul>
+  <li><a href="https://dengyaqi.github.io/ai/#ai-guide" target="_blank" rel="noreferrer nofollow">AI 使用入门：从概念、token、Codex 到本机工具配置</a></li>
+  <li><a href="https://dengyaqi.github.io/ai/#ai-core" target="_blank" rel="noreferrer nofollow">AI 核心能力：RAG、文档解析、知识图谱与检索质量</a></li>
+  <li><a href="https://dengyaqi.github.io/ai/#ai-engineering" target="_blank" rel="noreferrer nofollow">AI 工程化：Agent、评测、trace、上下文工程与稳定性</a></li>
+  <li><a href="https://dengyaqi.github.io/categories/java/" target="_blank" rel="noreferrer nofollow">Backend Systems：Java、JVM、消息队列和工程基本盘</a></li>
 </ul>
 
 <h2>Selected notes</h2>
 
 <ul>
-  <li><a href="https://dengyaqi.github.io/posts/rag-document-parsing-quality/" target="_blank" rel="noreferrer nofollow">RAG 文档解析链路：为什么解析质量会影响检索质量</a></li>
-  <li><a href="https://dengyaqi.github.io/posts/knowledge-record-and-open-source-plan/" target="_blank" rel="noreferrer nofollow">我的知识记录与开源贡献规划</a></li>
-  <li><a href="https://dengyaqi.github.io/ai/" target="_blank" rel="noreferrer nofollow">AI 路线：RAG、知识图谱、文档解析与后端系统</a></li>
+  <li><a href="https://dengyaqi.github.io/posts/rag-document-parsing-quality/" target="_blank" rel="noreferrer nofollow">RAG 文档解析链路：解析质量如何决定检索质量</a></li>
+  <li><a href="https://dengyaqi.github.io/posts/knowledge-record-and-open-source-plan/" target="_blank" rel="noreferrer nofollow">博客重构路线：把知识记录变成 AI 工程作品集</a></li>
 </ul>
 
 <h2>Tools I use</h2>
@@ -60,4 +68,4 @@
   </a>
 </p>
 
-<p><sub>Last generated: Aug 2, 2026, 10:38 AM GMT+8</sub></p>
+<p><sub>Last generated: Aug 2, 2026, 11:53 AM GMT+8</sub></p>
