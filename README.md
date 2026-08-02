@@ -1,56 +1,63 @@
-<h1>Hello, World</h1>
-
-<p>Hi, I'm Yaqi from China. Currently, I am the AI R&D Lead at Hangzhou, focusing on backend systems, knowledge graphs, ontology, and RAG-based solutions. Previously, I worked as a NLP Engineer and Android Developer. I believe in long-term impact, am passionate about open-source, and enjoy exploring innovative technologies.</p>
-
-<p>These days, I am turning my AI, RAG, and document parsing experience into public notes and small upstream contributions, starting with Docling and Langfuse Python SDK.</p>
+<h1>Yaqi Deng</h1>
 
 <p>
-  <a href="https://dengyaqi.github.io/posts/knowledge-record-and-open-source-plan/" target="_blank" rel="noreferrer nofollow">Knowledge and open-source roadmap</a>
+  <strong>AI R&amp;D Lead</strong> building practical AI systems around RAG,
+  knowledge graphs, document parsing, agent workflows, and backend reliability.
+</p>
+
+<p>
+  I started from NLP and computational linguistics, then spent years building backend,
+  Android, and risk-control systems. These days I am turning that mixed path into
+  public engineering notes: small, reproducible observations from real AI systems.
+</p>
+
+<p>
+  <a href="https://dengyaqi.github.io/" target="_blank" rel="noreferrer nofollow">Blog</a>
   ·
-  <a href="https://dengyaqi.github.io/posts/rag-document-parsing-quality/" target="_blank" rel="noreferrer nofollow">RAG document parsing note</a>
+  <a href="https://dengyaqi.github.io/ai/" target="_blank" rel="noreferrer nofollow">AI roadmap</a>
+  ·
+  <a href="https://dengyaqi.github.io/about/" target="_blank" rel="noreferrer nofollow">About</a>
 </p>
 
-<h2>Things I code with</h2>
+<h2>Current focus</h2>
+
+<ul>
+  <li><strong>RAG quality</strong>: document parsing, OCR, table structure, chunking, retrieval, and answer traceability.</li>
+  <li><strong>Knowledge modeling</strong>: ontology, knowledge graph design, entity relations, and structured business concepts.</li>
+  <li><strong>AI engineering</strong>: LangChain, LangGraph, vLLM, DeepSeek, PgVector, FastAPI, Django, Redis, and observability.</li>
+  <li><strong>Backend systems</strong>: Java, SpringBoot, Kafka, Elasticsearch, MySQL, Kubernetes, concurrency, and JVM tuning.</li>
+</ul>
+
+<h2>Selected notes</h2>
+
+<ul>
+  <li><a href="https://dengyaqi.github.io/posts/rag-document-parsing-quality/" target="_blank" rel="noreferrer nofollow">RAG 文档解析链路：为什么解析质量会影响检索质量</a></li>
+  <li><a href="https://dengyaqi.github.io/posts/knowledge-record-and-open-source-plan/" target="_blank" rel="noreferrer nofollow">我的知识记录与开源贡献规划</a></li>
+  <li><a href="https://dengyaqi.github.io/ai/" target="_blank" rel="noreferrer nofollow">AI 路线：RAG、知识图谱、文档解析与后端系统</a></li>
+</ul>
+
+<h2>Tools I use</h2>
+
 <p>
-  <!-- back_end -->
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <!-- OS -->
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <!-- AI -->
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <!-- test -->
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-  <!-- maintenance -->
-  </br>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <!-- front_end -->
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <!-- version control -->
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
-
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://dengyaqi.github.io/posts/kafka/ target="_blank" rel="noreferrer nofollow">Kafka原理解析与实战</a></li>
-  <li><a href=https://dengyaqi.github.io/posts/zookeeper/ target="_blank" rel="noreferrer nofollow">Zookeeper原理解析与实战</a></li>
-  <li><a href=https://dengyaqi.github.io/posts/how-to-build-readme/ target="_blank" rel="noreferrer nofollow">跟着大佬thmsgbrt构建Github主页 - Github Actions</a></li>
-  <li><a href=https://dengyaqi.github.io/posts/how-to-build-blog/ target="_blank" rel="noreferrer nofollow">如何快速构建Github个人博客 - Github Pages</a></li>
-  <li><a href=https://dengyaqi.github.io/posts/git-learn-part-1/ target="_blank" rel="noreferrer nofollow">20分钟了解Git</a></li>
-  </ul>
-<p><a href="https://dengyaqi.github.io/">➡️ 更多博客</a></p>
 
 <h2>Where to find me</h2>
+
 <p>
   <a href="https://github.com/DENGYaqi" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/deng-yaqi/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<p><sub>Last generated: Aug 2, 2026, 10:38 AM GMT+8</sub></p>

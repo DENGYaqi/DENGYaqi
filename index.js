@@ -10,14 +10,14 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 */
 let DATA = {
   name: 'DENG Yaqi',
-  date: new Date().toLocaleDateString('zh-CN', {
-    weekday: 'long',
-    month: 'long',
+  date: new Date().toLocaleString('en-US', {
+    year: 'numeric',
+    month: 'short',
     day: 'numeric',
-    hour: 'numeric',
-    minute: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
     timeZoneName: 'short',
-    timeZone: 'Asia/shanghai',
+    timeZone: 'Asia/Shanghai',
   }),
 };
 
