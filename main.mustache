@@ -10,6 +10,11 @@ I lead technical direction and delivery for AI platforms, agent workflows, and R
 
 ### Explore
 
-- [Personal website](https://dengyaqi.github.io/en/) — background and experience
 - [Technical writing](https://dengyaqi.github.io/en/blog/) — engineering notes
 - [Resume](https://dengyaqi.github.io/assets/files/resume/deng-yaqi-ai-rd-resume.pdf) — PDF
+
+### Contact
+
+- **Email:** [yaqidengtravail@gmail.com](mailto:yaqidengtravail@gmail.com)
+- **Website:** [dengyaqi.github.io](https://dengyaqi.github.io/en/)
+- **LinkedIn:** [linkedin.com/in/deng-yaqi](https://www.linkedin.com/in/deng-yaqi/)
