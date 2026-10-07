@@ -16,5 +16,5 @@ I lead technical direction and delivery for AI platforms, agent workflows, and R
 ### Contact
 
 - **Email:** [yaqidengtravail@gmail.com](mailto:yaqidengtravail@gmail.com)
-- **WeChat:** `bah_oui_cest_moi`
 - **Website:** [dengyaqi.github.io](https://dengyaqi.github.io/en/)
+- **WeChat:** bah_oui_cest_moi
