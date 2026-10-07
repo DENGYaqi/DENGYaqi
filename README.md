@@ -4,6 +4,10 @@
 
 I lead technical direction and delivery for AI platforms, agent workflows, and RAG systems. My background in NLP, knowledge graphs, and backend engineering helps me build reliable applications from early prototypes through production.
 
+### Recent writing
+
+- [Understanding perplexity: How models predict the next token](https://dengyaqi.github.io/zh/posts/2026/10/06/perplexity-next-token-prompt-compression/) (in Chinese)
+
 ### Explore
 
 - [Personal website](https://dengyaqi.github.io/en/) — background and experience
